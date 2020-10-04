@@ -1,0 +1,50 @@
+section{
+	display: flex;
+	flex-direction: row;
+	flex-wrap:wrap;
+	justify-content: flex-start
+	aling-items: center;
+	...
+}
+
+
+
+body{
+	display:grid;
+	grid-template-columns: 1fr-3fr <--- empleo las proporciones del display para obtener columnas iguales
+	grid-template-areas: 
+		" elemento1 elemento1"
+		" elemento2 elemento3"
+
+}
+
+establezco la posicion de los elementos en el grid en el css del elemento correspondiente
+
+header{
+	grid-area:elemento1
+	...
+}
+
+aside{
+	grid-area:elemento2
+	...
+}
+
+main{
+	grid-area:elemento3
+	...
+}
+
+nos permite modificar el posicionamiento de los elementos en el grid de manera facil. 
+
+en este caso tengo el grid en el body pero puedo tener grids en otros elementos como en el main
+
+		grid-template-columns: repeat(3,1fr)
+		grid-colum-cap: 20px
+		grid-row-gap: 20px
+por cada uno de los elementos del main puedo especificar cuantas columnas o filas ocupa
+	grid-column: 1/span 2; //ocupo 2 espacios
+	grid-row: 3/ span 3; ocupo 3 espacios
+
+
+mejor crear un css aparte para el posicionamiento de los elementos web
