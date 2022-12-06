@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Ejercicio14.css">
+    <script src="Ejercicio14.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <title>Ejercicio 14</title>
+</head>
+<body>
+
+    <main>
+        <h1>Buscar archivo kml para mostrar</h1>
+        <label for="buscar">Buscar</label>
+        <input type="file" id="buscar" accept=".kml" onchange="mostrar.leerArchivo(this.files)">
+        <section>
+            <h2>Modo pantalla completa</h2>
+            <button type="button" onclick="mostrar.entrarCompleta()">Entrar pantalla completa</button>
+            <button type="button" onclick="mostrar.salirCompleta()">Salir pantalla completa</button>
+        </section>
+        <article><h2>Error al cargar el mapa</h2></article>
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC6j4mF6blrc4kZ54S6vYZ2_FpMY9VzyRU"></script>
+    </main>
+</body>
+</html>

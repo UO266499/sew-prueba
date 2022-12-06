@@ -1,0 +1,342 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.012,32.5
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Alexander"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.123,56.436
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Alexander"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.26,31.35
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Yaiza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.12,35.98
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Yaiza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.56,21.2
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Fernando"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62,46.94
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Fernando"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2,32.13
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Sara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6,56.12
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Sara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28,31.36
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Sara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11,58.65
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Sara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18,30.35
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Pepito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.95,54.36
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Pepito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.23,32.65
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Silvia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52,48.36
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Silvia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.32,32.98
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Adrian"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.95,45.63
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Adrian"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.99,30.66
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Juan Carlos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.42,56.36
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Juan Carlos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21,32.32
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Alfredo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23,56.96
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Alfredo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.21,28.23
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Manuel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.21,45.54
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Manuel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2,31.65
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Pedro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.32,52.12
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Pedro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.54,31.32
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Pepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.12,50.23
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Pepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.53,32.21
+                ]
+            },
+            "properties": {
+                "name": "Nacimiento de Carlos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.17,59.23
+                ]
+            },
+            "properties": {
+                "name": "Residencia de Carlos"
+            }
+        }
+        
+    ]
+}

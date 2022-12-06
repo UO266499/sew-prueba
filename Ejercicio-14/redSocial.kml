@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document><Placemark>
+	<name>Nacimiento de Alexander</name>
+	<Point>
+		<coordinates>25.012,-32.5,300</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Alexander</name>
+	<Point>
+		<coordinates>12.123,-56.436,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Nacimiento de Yaiza</name>
+	<Point>
+		<coordinates>23,31,300</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Yaiza</name>
+	<Point>
+		<coordinates>12,35,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Nacimiento de Fernando</name>
+	<Point>
+		<coordinates>11,21,300</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Fernando</name>
+	<Point>
+		<coordinates>16,46,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Nacimiento de Sara</name>
+	<Point>
+		<coordinates>25,32,300</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Sara</name>
+	<Point>
+		<coordinates>12,56,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Nacimiento de Pepito</name>
+	<Point>
+		<coordinates>25,32,300</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Pepito</name>
+	<Point>
+		<coordinates>12,56,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Nacimiento de Silvia</name>
+	<Point>
+		<coordinates>12,56,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Silvia</name>
+	<Point>
+		<coordinates>12,56,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Nacimiento de Adrián</name>
+	<Point>
+		<coordinates>25,32,300</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Adrián</name>
+	<Point>
+		<coordinates>12,56,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Nacimiento de Juan Carlos</name>
+	<Point>
+		<coordinates>25,32,300</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Juan Carlos</name>
+	<Point>
+		<coordinates>12,56,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Nacimiento de Alfredo</name>
+	<Point>
+		<coordinates>25,32,300</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Alfredo</name>
+	<Point>
+		<coordinates>12,56,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Nacimiento de Manuel</name>
+	<Point>
+		<coordinates>25,32,300</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Manuel</name>
+	<Point>
+		<coordinates>12,56,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Nacimiento de Pedro</name>
+	<Point>
+		<coordinates>25,32,300</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Pedro</name>
+	<Point>
+		<coordinates>12,56,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Nacimiento de Pepe</name>
+	<Point>
+		<coordinates>25,32,300</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Pepe</name>
+	<Point>
+		<coordinates>12,56,50</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Nacimiento de Carlos</name>
+	<Point>
+		<coordinates>25,32,300</coordinates>
+	</Point>
+	</Placemark>
+
+	<Placemark>
+	<name>Residencia de Carlos</name>
+	<Point>
+		<coordinates>12,56,50</coordinates>
+	</Point>
+	</Placemark>
+
+	
+</Document>
+</kml>

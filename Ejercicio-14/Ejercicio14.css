@@ -1,0 +1,23 @@
+/* Especificidad 0,0,1*/
+body{
+    background-color:#ffffff;
+    text-align: center;
+    color:#000000;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Especificidad 0,0,1*/
+h1{
+    text-align:center;
+}
+
+/* Especificidad 0,0,1*/
+article {
+    height: 70vh;
+    width: 100%;
+    overflow: hidden;
+    border: thin solid rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2vh;
+}

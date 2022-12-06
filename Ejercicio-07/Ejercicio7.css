@@ -1,0 +1,26 @@
+/* Especificidad 0,0,1*/
+body{
+    font-family: arial, sans-serif;
+    display: grid;
+    align-content: flex-start;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Especificidad 0,0,1*/
+table {
+    border-collapse: collapse;
+}
+
+/* Especificidad 0,0,1*/
+td, th {
+    border: 0.05rem solid #dddddd;
+    text-align: left;
+    padding: 0.5rem;
+}
+
+/* Especificidad 0,1,1*/
+/* No hace falta poner color de texto ya que lo hereda de body*/
+tr:nth-child(even) {
+    background-color: #dddddd;
+}

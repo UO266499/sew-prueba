@@ -1,0 +1,14 @@
+/* Especificidad 0,0,1*/
+body{
+    background-color:#ffffff;
+    text-align: center;
+    color:#000000;
+    font-family: 'Courier New', Courier, monospace;
+    display: grid;
+    justify-content: center;
+}
+
+/* Especificidad 0,0,1*/
+button{
+    margin-bottom: 1%;
+}

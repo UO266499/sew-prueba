@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 13 - Tarea 2</title>
+    <link rel="stylesheet" href="MapaGeoJSON.css">
+    <script src="MapaGeoJSON.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+    <h1>Mostrar Archivo KML</h1>
+	<label for="buscar">Buscar</label>
+    <input type="file" id="buscar" accept=".GeoJSON" onchange="mostrar.leerArchivo(this.files)">
+    <section><h2>Error al cargar el mapa</h2></section>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC6j4mF6blrc4kZ54S6vYZ2_FpMY9VzyRU"></script>
+</body>
+</html>
