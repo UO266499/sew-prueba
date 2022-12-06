@@ -14,9 +14,9 @@ class Mostrar{
       }
     
     salirCompleta(){
-    if (document.exitFullscreen) {
-        document.exitFullscreen();
-    }
+        if (document.exitFullscreen) {
+            document.exitFullscreen();
+        }
     }
 
     verPosicion(posicion){
