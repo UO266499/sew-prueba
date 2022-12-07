@@ -2,9 +2,9 @@ var met = new Object();
     met.apikey = "727c660ef8c103988af4f1a03eebdf3c";
     met.unidades = "&units=metric";
     met.idioma = "&lang=es";
-    met.error = "<h2>¡problemas! No puedo obtener información de <a href='http://openweathermap.org'>OpenWeatherMap</a></h2>";
+    met.error = "<h2>¡problemas! No puedo obtener información de <a href='https://openweathermap.org'>OpenWeatherMap</a></h2>";
     met.cargarDatos = function(ciudad){
-        met.url = "http://api.openweathermap.org/data/2.5/weather?q=" + ciudad + met.unidades + met.idioma + "&APPID=" + met.apikey;
+        met.url = "https://api.openweathermap.org/data/2.5/weather?q=" + ciudad + met.unidades + met.idioma + "&APPID=" + met.apikey;
     
         $.ajax({
             dataType: "json",
@@ -28,7 +28,7 @@ var met = new Object();
         }
         
        document.getElementsByTagName("main")[0].innerHTML+= "<article>"+
-       '<img src="http://openweathermap.org/img/wn/'+ met.datos.weather[0].icon+'@2x.png" alt="icono que muestra el tiempo actual">'+
+       '<img src="https://openweathermap.org/img/wn/'+ met.datos.weather[0].icon+'@2x.png" alt="icono que muestra el tiempo actual">'+
        "<p>País: " + met.datos.sys.country + "</p>"+
        "<p>Latitud: " + met.datos.coord.lat + " º</p>"+
        "<p>Longitud: " + met.datos.coord.lon + " º</p>"+

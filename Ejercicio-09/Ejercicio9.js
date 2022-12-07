@@ -4,7 +4,7 @@ var met = new Object();
     met.idioma = "&lang=es";
     met.error = "<h2>¡problemas! No puedo obtener información de <a href='http://openweathermap.org'>OpenWeatherMap</a></h2>";
     met.cargarDatos = function(ciudad){
-        met.url = "http://api.openweathermap.org/data/2.5/weather?q=" + ciudad+"&mode=xml" + met.unidades + met.idioma + "&APPID=" + met.apikey;
+        met.url = "https://api.openweathermap.org/data/2.5/weather?q=" + ciudad+"&mode=xml" + met.unidades + met.idioma + "&APPID=" + met.apikey;
     
         $.ajax({
             dataType: "xml",
@@ -42,7 +42,7 @@ var met = new Object();
         var horaMedidaLocal       = (new Date(horaMedidaMiliSeg1970)).toLocaleTimeString("es-ES");
         var fechaMedidaLocal      = (new Date(horaMedidaMiliSeg1970)).toLocaleDateString("es-ES");
        document.getElementsByTagName("main")[0].innerHTML+= "<article>"+
-       '<img src="http://openweathermap.org/img/wn/'+ $('weather',met.datos).attr("icon")+'@2x.png" alt="icono que muestra el tiempo actual">'+
+       '<img src="https://openweathermap.org/img/wn/'+ $('weather',met.datos).attr("icon")+'@2x.png" alt="icono que muestra el tiempo actual">'+
        "<p>País: " + $('country',met.datos).text() + "</p>"+
        "<p>Latitud: " + $('coord',met.datos).attr("lat") + " º</p>"+
        "<p>Longitud: " + $('coord',met.datos).attr("lon") + " º</p>"+
