@@ -1,0 +1,3 @@
+me sale un error en mobile friendly test diciendo que los elementos están muy cerca, 
+aunque tienen 3 rem de separación, por mas que añadi margen no se arregló y probando 
+en version movil se puede usar perfectamente. 

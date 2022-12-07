@@ -83,7 +83,7 @@ class GeoLocalizacion{
 
     getMapaEstaticoGoogle(){
         
-        var apiKey = "&key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg";
+        var apiKey = "&key=AIzaSyB5y_M4BEjSZDURwuM3HBYf9GMa4aOlW8o";
         var url = "https://maps.googleapis.com/maps/api/staticmap?";
         var centro = "center=" + this.latitud + "," + this.longitud;
         var zoom ="&zoom=15";
